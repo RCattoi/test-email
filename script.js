@@ -1,4 +1,4 @@
-import USERID from './etc/secrets/email-key.js';
+import USERID from './email-key.js';
 
 const btn = document.querySelector('.enviarEmail');
 
