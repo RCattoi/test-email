@@ -22,6 +22,7 @@ const callback = async (e, text) => {
 
   const json = await fetchEmail.json();
   console.log(json);
+  console.log(json);
 
   // const name = document.querySelector('.name').value;
   // emailjs
